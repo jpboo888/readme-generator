@@ -21,4 +21,4 @@
 ## Tests
 
 ## Questions
-If you have any questions you can reach me at yogaworld.tx@gmail.com.  And, you can also feel free to check out my github page https://github.com/jpboo888
+If you have any questions you can reach me at yogaworldtx@gmail.com.  And, you can also feel free to check out my github page https://github.com/jpboo888
