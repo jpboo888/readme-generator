@@ -50,5 +50,8 @@ SOFTWARE.
 
 ## Tests
 
+Please check out this video
+https://youtu.be/RpdAllj4HVM
+
 ## Questions
 If you have any questions you can reach me at yogaworldtx@gmail.com.  And, you can also feel free to check out my github page https://github.com/jpboo888
