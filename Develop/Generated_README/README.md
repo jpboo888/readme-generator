@@ -1,7 +1,7 @@
-# clear
+# Readme Generator AGAIN!
 
   ## Description
-  clear
+  This application can build your README.md file after you input asked for critera.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,17 +10,17 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  c;ear
+  to install this please run, "node index.js
   ## Usage
-  ioeajfeo ijae
+  To use this app, please check with your teacher, parents or priest.
   ## Contributing
   undefined
-  ## License The Unlicense
-  https://unlicense.org/
+  ## License MIT License
+  https://mit-license.org/
   ## Tests
-  meh
+  This is where the video link should go?
   ---
   ## Questions
   If you have any questions, please feel free to visit my GitHub profile at: [](https://github.com/jpboo888)
-  Or, you can reach me by e-mail at: asena e@gmail.com
+  Or, you can reach me by e-mail at: jpboo888@gmail.com
 
